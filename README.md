@@ -49,19 +49,18 @@ https://github.com/mahmoudafx1/superadminv6/blob/main/superadmin%20(1).mp4
 
 ## 📂 Project Structure
 
+```text
 src/
+├── API/              # API services and Axios requests
+├── Components/       # Reusable UI components
+├── img/              # Images and static assets
+├── Pages/            # Application pages
+├── utils/            # Helper and utility functions
+├── index.js          # Application entry point
+└── tailwind.css      # Global Tailwind styles
 
-├── Components/
-
-├── Pages/
-
-├── API/
-
-├── Layout/
-
-├── Assets/
-
-└── Router/
+public/               # Static public assets
+```
 
 ---
 
