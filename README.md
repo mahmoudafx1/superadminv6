@@ -84,6 +84,7 @@ Protected routes prevent unauthorized users from accessing admin pages.
 ### Applications
 
 - Review new business applications
+- View applications details
 - Approve or reject providers
 - Block / Unblock branches
 
@@ -91,8 +92,8 @@ Protected routes prevent unauthorized users from accessing admin pages.
 
 - Approve services
 - Reject services
-- View service details
-
+- View services details
+- 
 ### Providers
 
 - Browse providers
@@ -108,7 +109,7 @@ Protected routes prevent unauthorized users from accessing admin pages.
 
 ### Plans
 
-- Manage subscription plans
+- View subscription plans
 
 ---
 
@@ -147,7 +148,6 @@ Responsibilities included:
 - Creating reusable UI components
 - API integration
 - Authentication flow
-- Responsive layout
 - Dashboard analytics
 - Finance module
 - Applications review system
