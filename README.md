@@ -14,8 +14,8 @@ https://booklyx-platformadminn.vercel.app/
 
 Watch the project demo here:
 
-![video](https://github.com/mahmoudafx1/superadminv6/blob/main/superadmin%20(1).mp4)
-
+[![video](https://github.com/mahmoudafx1/superadminv6/blob/main/superadmin%20(1).mp4)
+](https://github.com/user-attachments/assets/96f533d2-ff55-4895-bb13-4403719c0a70)
 ---
 
 ## 📌 Features
