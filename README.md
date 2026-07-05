@@ -14,10 +14,7 @@ https://booklyx-platformadminn.vercel.app/
 
 Watch the project demo here:
 
-<video src="https://github.com/user-attachments/assets/96f533d2-ff55-4895-bb13-4403719c0a70"
-       controls
-       style="width:350px;">
-</video>
+https://github.com/user-attachments/assets/96f533d2-ff55-4895-bb13-4403719c0a70
 ---
 
 ## 📌 Features
