@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/96f533d2-ff55-4895-bb13-4403719c0a70
 - Payments Management
 - Subscription Plans
 - Secure Authentication
-- Responsive Admin Interface
 
 ---
 
