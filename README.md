@@ -16,7 +16,7 @@ Watch the project demo here:
 
 <video src="https://github.com/user-attachments/assets/96f533d2-ff55-4895-bb13-4403719c0a70"
        controls
-       width="350">
+       style="width:350px;">
 </video>
 ---
 
