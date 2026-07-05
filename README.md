@@ -92,7 +92,7 @@ Protected routes prevent unauthorized users from accessing admin pages.
 - Approve services
 - Reject services
 - View services details
-- 
+
 ### Providers
 
 - Browse providers
